@@ -1,4 +1,4 @@
-hi# 📱 NextLevel
+## 📱 NextLevel
 
 NextLevel is a SwiftUI-based iOS app that lets you take a picture of an object using your iPhone camera, identifies the object using machine learning, and searches for it on Amazon — all in one tap.
 
