@@ -1,4 +1,4 @@
-# 📱 NextLevel
+hi# 📱 NextLevel
 
 NextLevel is a SwiftUI-based iOS app that lets you take a picture of an object using your iPhone camera, identifies the object using machine learning, and searches for it on Amazon — all in one tap.
 
@@ -21,10 +21,6 @@ NextLevel is a SwiftUI-based iOS app that lets you take a picture of an object u
 - [Amazon Product Advertising API](https://affiliate-program.amazon.com/) – Product search and cart functionality
 
 ---
-
-## 📸 Screenshots
-
-> _Insert screenshots here once your app has a UI worth showing!_
 
 ---
 
